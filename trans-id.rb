@@ -11,5 +11,5 @@ def trans(pre)
   end
 end
 
-trans(false)
 trans(true)
+trans(false)
